@@ -1,10 +1,10 @@
 # Exercise-01a-Install-Software
 My name is:
 
-[Your Name]
+Daniyaal Hussain
 
 My github username is:
 
-[Your Username]
+Lutumna
 
-BL-MSCH-C220
+I have installed all of the software.
